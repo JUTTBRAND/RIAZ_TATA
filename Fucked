@@ -1,1 +1,5 @@
+import time
+print("\033[1;32m WELLCOME")
+print("\033[1;31mFUCKED BY Mr-Hacker AND JXB")
+time.sleep(0.5)
 import zain
