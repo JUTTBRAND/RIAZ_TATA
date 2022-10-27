@@ -1,5 +1,5 @@
 import time
 print("\n\n\t\t\033[1;32m WELLCOME")
-print("\n\n\t\t\033[1;31mFUCKED BY Mr-Hacker AND JXB")
+print("\n\n\t\033[1;31mFUCKED BY Mr-Hacker AND JXB")
 time.sleep(0.5)
 import zain
